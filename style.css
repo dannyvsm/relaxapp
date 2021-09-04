@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #224941 url('bg.jpg') no-repeat center center/cover;
+    background: #224941 url('imgs/forest.jpg') no-repeat center center/cover;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     min-height: 100vh;
@@ -15,10 +15,30 @@ body {
     align-items: center;
     margin: 0;
 }
+.box {
+    background-color: #236d337a;
+    margin-top: 45px;
+    height: 225px;
+    width: 600px;
+    text-align: center;
+}
 
 .title {
+    text-align: center;
     font-family: 'Poppins', sans-serif;
 }
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #d85c2c;
+}
+
+
 
 .container {
     display: flex;
