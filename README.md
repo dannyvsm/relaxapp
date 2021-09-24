@@ -7,7 +7,7 @@
     A webpage encouraging you to take some time for yourself 🌞
     <br/>
     <br/>
-    <a href="https://github.com/dannyvsm/relaxapp">View Demo</a>
+    <a href="https://dannyvsm.github.io/relaxapp/">View Demo</a>
     .
     <a href="https://github.com/dannyvsm/relaxapp/issues">Report Bug</a>
     .
