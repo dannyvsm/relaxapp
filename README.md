@@ -54,15 +54,13 @@ git clone https://github.com/dannyvsm/relaxapp.git
 
 2. Open in it your editor of choice
 
-3. Use [Live Share] 
+3. Use localhost or a live server extension to view live
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/dannyvsm/relaxapp/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/dannyvsm/relaxapp/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing features, feel free to [open an issue](https://github.com/dannyvsm/relaxapp/issues/new) to discuss it.
+
 
 ### Creating A Pull Request
 
@@ -72,13 +70,12 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/dannyvsm/relaxapp/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
 * **Danny Smith** - *Junior Software Developer* - [Danny Smith](https://github.com/dannyvsm/) 
+* 
 ## Acknowledgements
 
 * [Traversy Media](https://www.youtube.com/watch?v=l-1ZrU6avzI)
