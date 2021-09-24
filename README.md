@@ -75,7 +75,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Authors
 
 * **Danny Smith** - *Junior Software Developer* - [Danny Smith](https://github.com/dannyvsm/) 
-* 
+
 ## Acknowledgements
 
 * [Traversy Media](https://www.youtube.com/watch?v=l-1ZrU6avzI)
