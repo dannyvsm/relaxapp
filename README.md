@@ -15,7 +15,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/dannyvsm/relaxapp?color=dark-green) ![Issues](https://img.shields.io/github/issues/dannyvsm/relaxapp) ![License](https://img.shields.io/github/license/dannyvsm/relaxapp) 
+![Contributors](https://img.shields.io/github/contributors/dannyvsm/relaxapp?color=dark-green) ![Issues](https://img.shields.io/github/issues/dannyvsm/relaxapp) 
 
 ## Table Of Contents
 
