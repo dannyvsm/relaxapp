@@ -46,13 +46,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo
+1. Open in it your editor of choice 
+
+2. Clone the repo
 
 ```sh
 git clone https://github.com/dannyvsm/relaxapp.git
 ```
-
-2. Open in it your editor of choice
 
 3. Use localhost or a live server extension to view live
 
