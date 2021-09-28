@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Open in it your editor of choice 
+1. Open your terminal in an editor of your choice
 
 2. Clone the repo
 
